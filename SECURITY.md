@@ -4,7 +4,7 @@
 
 Please do not open a public issue for a security problem.
 
-Write to **johnny@jmk.studio** with:
+Write to **johnny@knoblauch.fr** with:
 
 - the repository and, if possible, the file or URL concerned;
 - what an attacker can do, and the steps to reproduce it;
@@ -18,4 +18,4 @@ Only the latest version on the default branch of each repository is maintained.
 
 ---
 
-**En français** : pour signaler une faille, écrivez à johnny@jmk.studio plutôt que d’ouvrir une issue publique. Réponse sous 5 jours ouvrés.
+**En français** : pour signaler une faille, écrivez à johnny@knoblauch.fr plutôt que d’ouvrir une issue publique. Réponse sous 5 jours ouvrés.
